@@ -1,2 +1,3 @@
 # angular-basic
-Angular Basic
+
+Contains Angular basic concepts cover with each topic. Each folder will contains its specific code.
